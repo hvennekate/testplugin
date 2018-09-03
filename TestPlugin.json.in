@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"TestPlugin\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"HendrikVennekate\",
+    \"Copyright\" : \"(C) Hendrik Vennekate\",
+    \"License\" : \"MIT\",
+    \"Description\" : \"Just a test\",
+    \"Url\" : \"http://www.mycompany.com\",
+    $$dependencyList
+}
